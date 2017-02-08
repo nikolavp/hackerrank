@@ -1,4 +1,4 @@
-package org.nikolavp.datastructures.graphtheory;
+package org.nikolavp.algorithm.graphtheory;
 
 import java.util.ArrayList;
 import java.util.List;

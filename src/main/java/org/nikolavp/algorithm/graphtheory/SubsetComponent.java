@@ -1,4 +1,4 @@
-package org.nikolavp.datastructures.graphtheory;
+package org.nikolavp.algorithm.graphtheory;
 
 import java.math.BigInteger;
 import java.util.*;

@@ -1,4 +1,4 @@
-package org.nikolavp.datastructures.algorithm.implementation;
+package org.nikolavp.algorithm.implementation;
 
 import java.util.*;
 

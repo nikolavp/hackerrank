@@ -1,4 +1,4 @@
-package org.nikolavp.datastructures.algorithm.strings;
+package org.nikolavp.algorithm.strings;
 
 import java.util.Scanner;
 
